@@ -7,7 +7,6 @@ public class Demo {
 		System.out.println("linei 1");
 		
 		System.out.println("linea despues de 'new branch'");
-		System.out.println("6.2'");
 		
 	}
 
