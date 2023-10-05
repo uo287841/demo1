@@ -6,7 +6,7 @@ public class Demo {
 		System.out.println("cambio 3 mars en confli");
 		System.out.println("linei 1");
 		
-		System.out.println("linea despues de 'new branch'");
+		
 		
 	}
 
